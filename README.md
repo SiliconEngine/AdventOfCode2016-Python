@@ -193,7 +193,7 @@ In Part 1, the current elf takes the presents from the elf on their immediate le
 the circle.
 
 This puzzle was all about efficient data structures. Part 1 uses "deque" from the
-Python standard library. Part 2 uses a single-linked ringer buffer. Most of the run
+Python standard library. Part 2 uses a single-linked ring buffer. Most of the run
 time is spent initializing the data structures.
 
 There's likely also a formula that can just calculate the final result, but I didn't
